@@ -1,0 +1,1 @@
+alert("Site está ativo")
