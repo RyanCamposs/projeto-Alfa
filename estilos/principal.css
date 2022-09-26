@@ -1,5 +1,5 @@
 .titulo {
-    color:indianred;
+    color:rgb(255, 255, 255);
     text-align: center;
 }
 
@@ -12,4 +12,12 @@
 div.box {
     display: inline-block;
     text-align: center;
+}
+
+div.bp {
+    height: 100%;
+    background:rgb(0, 0, 0)
+    }
+.body {
+    background:black;
 }
