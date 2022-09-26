@@ -3,21 +3,43 @@
     text-align: center;
 }
 
-.img {
+img.img {
     max-width: 50px;
     text-align: center;
     display:inline-flexbox;
+    vertical-align: baseline;
+
 }
 
-div.box {
+img.img2 {
+    max-width: 25px;
+    display: inline-block;
+    vertical-align:middle;
+}
+
+img.box {
     display: inline-block;
     text-align: center;
 }
 
 div.bp {
     height: 100%;
-    background:rgb(0, 0, 0)
+    background:rgb(0, 0, 0);
+    vertical-align: middle;
+    
     }
 .body {
     background:black;
 }
+
+.ancora {
+    color: white;
+    font-size: 15px;
+    vertical-align: baseline;
+}
+
+.titulos2 {
+    color:white;
+    text-align: center;
+}
+
