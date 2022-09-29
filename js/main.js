@@ -1,1 +1,0 @@
-alert("Site está ativo")
