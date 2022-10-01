@@ -1,0 +1,11 @@
+body {
+    background-color:beige;
+}
+.txt {
+   text-decoration: none;
+   color: black;
+   border-color: black 2px;
+   border-style: solid;
+   text-align: center;
+   padding: 2px 15px 2px 15px;
+}
